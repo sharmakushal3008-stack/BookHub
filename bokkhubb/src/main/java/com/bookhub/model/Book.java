@@ -1,3 +1,4 @@
+//Kushal Sharma (13856)
 package com.bookhub.model;
 
 import jakarta.persistence.*;
